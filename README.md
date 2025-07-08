@@ -1,4 +1,10 @@
-## Hi there 👋
+## Yo, I'm Elisha!
+
+I do software development. Fast, clean, and slightly(?) chaotic...
+
+### Tech Stack
+
+[![Tech I Use](https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,prisma,figma,postman,docker,vercel,vite,vscode,git,github,html,css,c,cpp)](https://skillicons.dev)
 
 <!--
 **aerelish/aerelish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
