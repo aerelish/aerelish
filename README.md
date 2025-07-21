@@ -3,8 +3,7 @@
 I do software development. Fast, clean, and slightly(?) chaotic...
 
 ### Tech Stack
-
-[![Tech I Use](https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,prisma,figma,postman,docker,vercel,vite,vscode,git,github,html,css,c,cpp)](https://skillicons.dev)
+[![Tech I Use](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,express,tailwind,postgres,prisma,postman,docker,figma,vite,vscode,git,c,cpp,aws,vercel&them=dark)](https://skillicons.dev)
 
 <!--
 **aerelish/aerelish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
