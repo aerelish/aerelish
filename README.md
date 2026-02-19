@@ -9,3 +9,5 @@
 <p> My commonly used technologies... </p>
 
 [![Tech I Use](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,express,tailwind,postgres,prisma,postman,docker,figma,vite,vscode,git,c,cpp,aws,vercel&them=dark)](https://skillicons.dev)
+
+![Profile views](https://komarev.com/ghpvc/?username=aerelish&color=39ff14)
